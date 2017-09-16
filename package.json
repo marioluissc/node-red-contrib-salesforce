@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^3.10.0",
-    "nforce": "^1.2.0",
+    "nforce": "^1.7.0",
     "xml2js": "^0.4.9"
   }
 }
